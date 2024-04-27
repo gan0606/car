@@ -1,0 +1,5 @@
+names:
+- car
+nc: 1
+train: C:/Users/yuuki/Kaggle/object_detection_try/car/dataset/train/images
+val: C:/Users/yuuki/Kaggle/object_detection_try/car/dataset/valid/images
